@@ -1,3 +1,3 @@
 # vyompatel-demo
-This is my first git repo
-Author: vyom patel
+This is my first Git Repo.<br>
+Author: Vyom Patel
